@@ -54,7 +54,7 @@ IF\
 &nbsp; &nbsp; &nbsp; and the symptom is impaired communication\
 &nbsp; &nbsp; &nbsp; and the skill level is low\
 THEN\
-&nbsp; &nbsp; &nbsp; the mental disorder is Autism\	
+&nbsp; &nbsp; &nbsp; the mental disorder is Autism
 
 ## 4.Видът на получения резултат 
 Целта на системата е да се избере най-добрия избор от много възможности.
