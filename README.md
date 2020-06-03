@@ -48,12 +48,13 @@
   Използван е вграденият в Пролог - backward chaining. Това е техниката за извод, която използва IF-THEN правила, като разбива многократно целта на подцели.
 Интерпретаторът доказва или опровергава всяка цел.
 Правилата са използвани за представяне на знания, а интерпретатора на пролог за достигане на заключения. 
-Пример: IF
-    type is neurodevelopmental disorder
-		     and the symptom is impaired communication
-		     and the skill level is low 
-	         THEN
-    the mental disorder is Autism 	
+Пример:\
+IF\
+&nbsp; &nbsp; &nbsp; type is neurodevelopmental disorder\
+&nbsp; &nbsp; &nbsp; and the symptom is impaired communication\
+&nbsp; &nbsp; &nbsp; and the skill level is low\
+THEN\
+&nbsp; &nbsp; &nbsp; the mental disorder is Autism\	
 
 ## 4.Видът на получения резултат 
 Целта на системата е да се избере най-добрия избор от много възможности.
