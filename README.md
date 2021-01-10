@@ -44,7 +44,7 @@
 - Down syndrome - type(genetic disorder), symptom(delayed physical growth), Face features(long and narrow), ears features(large), brain function(intellectual disability).
 - Fragile X syndrome - type(genetic disorder), face features(small chin and slanted eyes), brain function(intellectual disability).
 
-## 3.	Стратегията на работа на интерпретатора на знания – обясние на работата на Пролог в използвания вариант.
+## 3.	Стратегията на работа на интерпретатора на знания – обяснение на работата на Пролог в използвания вариант.
   Използван е вграденият в Пролог - backward chaining. Това е техниката за извод, която използва IF-THEN правила, като разбива многократно целта на подцели.
 Интерпретаторът доказва или опровергава всяка цел.
 Правилата са използвани за представяне на знания, а интерпретатора на пролог за достигане на заключения. 
